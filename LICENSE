@@ -1,7 +1,7 @@
 MIT License
 
-Copyright (c) 2025 Cerelog Inc. (the V1 firmware this is built from: github.com/Cerelog-ESP-EEG/ESP-EEG, /firmware)
-Copyright (c) 2026 Somach Systems, Inc. (the rate-request patch, the host example and the scripts)
+Copyright (c) 2025 Cerelog Inc.
+Copyright (c) 2026 Somach Systems, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
